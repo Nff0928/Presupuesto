@@ -1,25 +1,43 @@
-🚀 Control de Presupuesto Personal 💰
-¿Cansado de no saber a dónde va tu dinero? ¡No más! Esta es la aplicación web intuitiva y súper fácil de usar que te ayudará a tomar las riendas de tus finanzas. Registra tus ingresos y egresos al instante, visualiza tu presupuesto disponible y mantén esos gastos bajo control. ¡Es hora de que tus finanzas trabajen para ti!
+# 💰 Control de Presupuesto Personal
+## 🚀 Aplicación web intuitiva para gestionar tus finanzas personales
 
-✨ Características Estelares
-Ingresos Simplificados: Añade tus fuentes de dinero de forma rápida y con descripciones que te sirvan.
+### 🌐 Demo en Vivo
+**[https://nff0928.github.io/Presupuesto/](https://nff0928.github.io/Presupuesto/)**
 
-Egresos al Día: Registra cada gasto y observa al instante cómo impacta tu presupuesto. ¡Control total!
+### 📋 ¿Qué es esto?
+¿Cansado de no saber a dónde va tu dinero? Esta aplicación web te ayudará a tomar las riendas de tus finanzas. Registra tus ingresos y egresos al instante, visualiza tu presupuesto disponible y mantén esos gastos bajo control.
 
-Visión 360° de tu Dinero: Un vistazo rápido te da el panorama completo: cuánto te queda, cuánto entra y cuánto sale.
+### ✨ Características Estelares
+- **Ingresos Simplificados** - Añade tus fuentes de dinero de forma rápida
+- **Egresos al Día** - Registra cada gasto y observa cómo impacta tu presupuesto
+- **Visión 360° de tu Dinero** - Panorama completo: cuánto te queda, cuánto entra y cuánto sale
+- **Gastos Bajo la Lupa** - Identifica qué porcentaje de tu dinero se va en cada cosa
+- **Interfaz Amigable** - Diseño limpio, moderno y extremadamente fácil de navegar
 
-Gastos Bajo la Lupa: Identifica fácilmente qué porcentaje de tu dinero se va en cada cosa. ¡Ideal para optimizar!
+### 🛠️ Tecnologías
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Diseño**: Responsive, moderno y atractivo
+- **Hosting**: GitHub Pages
 
-Interfaz Amigable: Un diseño limpio, moderno y extremadamente fácil de navegar. ¡Gestionar tu dinero nunca fue tan sencillo!
+### 🎯 Funcionalidades Principales
+- **Control Total** - Registra ingresos y egresos al instante
+- **Análisis Visual** - Visualiza tu presupuesto disponible
+- **Gestión Inteligente** - Mantén los gastos bajo control
+- **Optimización** - Identifica áreas de mejora en tus finanzas
 
-🛠️ La Magia Detrás de Escena: Tecnologías Utilizadas
-Desarrollada con las últimas tendencias para asegurar una experiencia fluida y robusta. Siéntete libre de actualizar las tecnologías si tienes la información exacta.
+### 💡 Beneficios
+- ✅ Saber exactamente a dónde va tu dinero
+- ✅ Tomar decisiones financieras informadas
+- ✅ Optimizar tus gastos
+- ✅ Mantener el control de tu presupuesto
 
-🌐 Frontend (La Cara Bonita):
-HTML5: La estructura sólida de la web.
+### 📱 Compatible con
+- ✅ Chrome, Firefox, Safari, Edge
+- ✅ Dispositivos móviles (iOS/Android)
+- ✅ Tablets y desktop
 
-CSS3: Para un diseño visualmente atractivo y responsivo. (¡Posiblemente potenciado con frameworks modernos como Bootstrap o Tailwind CSS!)
+---
 
-JavaScript: La inteligencia interactiva. (¿Quizás con la agilidad de React, la versatilidad de Vue.js, la robustez de Angular, o un JavaScript puro para una ligereza increíble?)
+**Desarrollado por:** [nff0928](https://github.com/nff0928)
 
-⚙️ Backend (El Cerebro de la Ope
+**Tech Stack:** HTML5, CSS3, JavaScript
